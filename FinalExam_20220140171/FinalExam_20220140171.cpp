@@ -174,4 +174,4 @@ int main() {
 //3. memasukan data pada daftar(array) awal dan akan di keluarkan diawal juga (FIFO)
 //4. algoritma stack digunakan saat ada tumpukan data maka data yang akan diambil atau dibuang terlebih dahulu adalaha data yang paling atas
 //5.a. 5
-//  b.inoder = 15,20,30,48,31,32,25,35, 50, 99,98,90,70,69,67,65,94,,66
+//  b.inoder = 15,20,30,48,31,32,25,35, 50, 99,98,90,70,69,67,65,94,,66s
